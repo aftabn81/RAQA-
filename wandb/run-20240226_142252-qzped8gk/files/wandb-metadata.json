@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.8",
+    "heartbeatAt": "2024-02-26T22:22:58.408966",
+    "startedAt": "2024-02-26T22:22:52.578225",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Python RAQA Example.ipynb",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/AI-Maker-Space/AI-Engineering.git",
+        "commit": "964d059ddd926d6da32f1c176ddc23ab896fb3e0"
+    },
+    "email": null,
+    "root": "C:/Users/aftabono/AI-Engineering",
+    "host": "SEA-1801744726",
+    "username": "aftabono",
+    "executable": "C:\\Users\\aftabono\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2301.0,
+        "min": 0.0,
+        "max": 2301.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2301.0,
+            "min": 0.0,
+            "max": 2301.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 236.84862899780273,
+            "used": 209.54110717773438
+        }
+    },
+    "memory": {
+        "total": 15.313526153564453
+    }
+}
